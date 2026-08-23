@@ -1,0 +1,25 @@
+# Local credentials
+**/project_config.h
+
+# Arduino build outputs
+build/
+tmp/
+*.bin
+*.elf
+*.map
+*.o
+*.d
+*.merged.bin
+compile_commands.json
+build.options.json
+
+# Python/cache files
+__pycache__/
+*.py[cod]
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
